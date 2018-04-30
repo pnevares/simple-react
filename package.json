@@ -1,0 +1,10 @@
+{
+  "name": "a-react-search",
+  "version": "0.0.1",
+  "description": "Using React to build a basic search experience",
+  "main": "index.js",
+  "repository": "git@github.com:pnevares/a-react-search.git",
+  "author": "Pablo Nevares <pablo@nevares.com>",
+  "license": "MIT",
+  "private": false
+}
