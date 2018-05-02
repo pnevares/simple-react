@@ -6,6 +6,7 @@
   "scripts": {
     "coverage": "jest --coverage",
     "lint": "eslint .",
+    "start": "node --experimental-modules index",
     "test": "jest"
   },
   "repository": "git@github.com:pnevares/a-react-search.git",
