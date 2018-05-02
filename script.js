@@ -1,6 +1,6 @@
-const element = React.createElement(
-  'h1',
-  null,
-  'Hello world',
+import Hello from './hello.js';
+
+ReactDOM.render(
+  React.createElement(Hello),
+  document.getElementById('root'),
 );
-ReactDOM.render(element, document.getElementById('root'));

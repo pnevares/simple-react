@@ -5,7 +5,7 @@ import path from 'path';
 http.createServer((req, res) => {
   const { base, ext } = path.parse(req.url);
 
-  if (['index.html', 'script.js'].includes(base)) {
+  if (['index.html', 'script.js', 'hello.js'].includes(base)) {
     fs.readFile(base, (error, data) => {
       if (error) {
         return res.end(JSON.stringify(error));
