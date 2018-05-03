@@ -4,7 +4,6 @@
   "description": "Using React to Hello World using fewer tools",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint .",
     "start": "node --experimental-modules index"
   },
   "repository": "git@github.com:pnevares/a-react-search.git",
