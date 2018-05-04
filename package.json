@@ -1,12 +1,12 @@
 {
   "name": "simple-react",
   "version": "1.0.0",
-  "description": "Using React to Hello World using fewer tools",
+  "description": "Using React to Hello World with fewer tools",
   "main": "index.js",
   "scripts": {
     "start": "node --experimental-modules index"
   },
-  "repository": "git@github.com:pnevares/a-react-search.git",
+  "repository": "git@github.com:pnevares/simple-react.git",
   "author": "Pablo Nevares <pablo@nevares.com>",
   "license": "MIT",
   "private": false,
