@@ -2,7 +2,7 @@
   "name": "simple-react",
   "version": "1.0.0",
   "description": "Using React to Hello World with fewer tools",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "start": "node --experimental-modules index"
   },
